@@ -1,7 +1,11 @@
 #!/usr/bin/env ruby
 
 require "bundler/setup"
+<<<<<<< HEAD
 require "love/code"
+=======
+require "first/gem"
+>>>>>>> 31ed4454437106c70716034ab454da6fa2564e9d
 
 # You can add fixtures and/or initialization code here to make experimenting
 # with your gem easier. You can also use a different console, if you like.

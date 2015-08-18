@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Love::Code
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/love/code`. To experiment with that code, run `bin/console` for an interactive prompt.
+=======
+# First::Gem
+
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/first/gem`. To experiment with that code, run `bin/console` for an interactive prompt.
+>>>>>>> 31ed4454437106c70716034ab454da6fa2564e9d
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -9,7 +15,11 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
+<<<<<<< HEAD
 gem 'love-code'
+=======
+gem 'first-gem'
+>>>>>>> 31ed4454437106c70716034ab454da6fa2564e9d
 ```
 
 And then execute:
@@ -18,7 +28,11 @@ And then execute:
 
 Or install it yourself as:
 
+<<<<<<< HEAD
     $ gem install love-code
+=======
+    $ gem install first-gem
+>>>>>>> 31ed4454437106c70716034ab454da6fa2564e9d
 
 ## Usage
 
@@ -32,7 +46,11 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
+<<<<<<< HEAD
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/love-code. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+=======
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/first-gem. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+>>>>>>> 31ed4454437106c70716034ab454da6fa2564e9d
 
 
 ## License
