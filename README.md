@@ -1,14 +1,11 @@
 <<<<<<< HEAD
 # Love::Code
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/love/code`. To experiment with that code, run `bin/console` for an interactive prompt.
+prints out text 6 times
 =======
 # First::Gem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/first/gem`. To experiment with that code, run `bin/console` for an interactive prompt.
->>>>>>> 31ed4454437106c70716034ab454da6fa2564e9d
-
-TODO: Delete this and the text above, and describe your gem
+prints out text 5 times
 
 ## Installation
 
